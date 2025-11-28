@@ -17,10 +17,11 @@ Aluno: Gabriel Martins </h5>
   </p>
 
 <p>
+
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white">
-   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
 </p>
 </div>
 
@@ -46,7 +47,7 @@ O projeto consome dados em tempo real via API e possui lógica inteligente para 
 
 * **React Native:** Framework principal para criar a interface do aplicativo (substitui o HTML).
 * **Expo:** Plataforma utilizada para facilitar a criação, execução e testes do app.
-* **JavaScript:** Linguagem de programação usada para toda a lógica (Fetch, manipulação de dados, etc).
+* **TypeScript:** Superset do JavaScript utilizado para maior segurança e robustez no código (arquivos .tsx).
 * **Expo Vector Icons:** Biblioteca utilizada para os ícones de clima (substitui imagens ou ícones de fonte web).
 * **OpenWeatherMap API:** Fonte dos dados meteorológicos.
 
