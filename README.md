@@ -1,8 +1,56 @@
-# Welcome to your Expo app 👋
+<h1 align="center"> Laboratório de Desenvolvimento de Aplicativos Nativos </h1>
+<img src="https://universidadedevassouras.edu.br/wp-content/uploads/2021/12/logo_horizontal_univasso.svg">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<h5>Curso: Engenharia de Software<br>
+Disciplica: Laboratório de Desenvolvimento de Aplicativos Nativos<br>
+Professor: Fabrício Dias<br>
+Período: 8° Período<br>
+Aluno: Gabriel Martins </h5>
 
-## Get started
+
+
+<h3 align="center"><img width="250" height="194" alt="climatiky" src="https://github.com/user-attachments/assets/24872636-c5ae-4cb7-975d-9f47244dd3eb" /></h3>
+
+<div align="center">
+  <p>
+    <strong>Previsão do tempo simples, direta e com estética Dark/Aesthetic.</strong>
+  </p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=for-the-badge&logo=openweathermap&logoColor=white">
+   <img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white">
+</p>
+</div>
+
+---
+
+## ⛈️ Sobre o Projeto
+
+O **CLIMATIKY** é uma aplicação web de previsão do tempo desenvolvida com foco em **minimalismo** e **usabilidade**. Diferente de apps poluídos, ele entrega o que o usuário precisa saber (temperatura, clima, umidade) em uma interface monocromática moderna.
+
+O projeto consome dados em tempo real via API e possui lógica inteligente para conversão de unidades baseada na localização pesquisada.
+
+## ✨ Funcionalidades
+
+* **Busca Global:** Pesquise o clima de qualquer cidade do mundo.
+* **Conversão Inteligente:**
+    * 🇧🇷 Cidades do Brasil: Exibição em **Celsius (°C)**.
+    * 🌍 Outros países: Exibição automática em **Fahrenheit (°F)**.
+* **Dados Detalhados:** Exibe temperatura atual, descrição do clima, umidade (%) e cobertura de nuvens (%).
+* **Identidade Visual:** Tema *Dark Mode* com tipografia 'Inter' e elementos em tons de cinza.
+* **Ícones Dinâmicos:** Emojis que mudam de acordo com o estado do tempo (Chuva, Sol, Neve, etc).
+
+## 🛠️ Tecnologias Utilizadas
+
+* **React Native:** Framework principal para criar a interface do aplicativo (substitui o HTML).
+* **Expo:** Plataforma utilizada para facilitar a criação, execução e testes do app.
+* **JavaScript:** Linguagem de programação usada para toda a lógica (Fetch, manipulação de dados, etc).
+* **Expo Vector Icons:** Biblioteca utilizada para os ícones de clima (substitui imagens ou ícones de fonte web).
+* **OpenWeatherMap API:** Fonte dos dados meteorológicos.
+
+##
 
 1. Install dependencies
 
@@ -15,36 +63,20 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
    ```bash
    npx expo start
    ```
+3. Use o Expo Go para visualizar <br>
 
-In the output, you'll find options to open the app in a
+ <h2 align="center">VIDEO MOSTRANDO</h2>  
+ 
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+https://github.com/user-attachments/assets/5b92d6b5-7ccf-4de0-afc6-eb443eb1e5c2
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
 
-When you're ready, run:
+https://github.com/user-attachments/assets/32ec02dd-acef-4293-9f1e-79128f109c18
 
-```bash
-npm run reset-project
-```
+##
+##
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<h4 align="center"> **Pode usar QR CODE ou Via WEB** </h4>
+<h6 align="center" >http://localhost:8081/ </h6>
+<img width="198" height="240" alt="image" align="center" src="https://github.com/user-attachments/assets/80355eb6-7e0b-4dc5-bc42-9cc3150fded3" />
